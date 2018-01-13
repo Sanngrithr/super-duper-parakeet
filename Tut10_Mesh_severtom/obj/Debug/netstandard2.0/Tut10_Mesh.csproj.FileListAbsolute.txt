@@ -1,0 +1,9 @@
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Tut10_Mesh.deps.json
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Tut10_Mesh.dll
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Tut10_Mesh.pdb
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.csproj.CoreCompileInputs.cache
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.AssemblyInfoInputs.cache
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.AssemblyInfo.cs
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.dll
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.pdb
