@@ -1,0 +1,9 @@
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\bin\Debug\netstandard2.0\Tut09_HierarchyAndInput.deps.json
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\bin\Debug\netstandard2.0\Tut09_HierarchyAndInput.dll
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\bin\Debug\netstandard2.0\Tut09_HierarchyAndInput.pdb
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\obj\Debug\netstandard2.0\Tut09_HierarchyAndInput.csproj.CoreCompileInputs.cache
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\obj\Debug\netstandard2.0\Tut09_HierarchyAndInput.AssemblyInfoInputs.cache
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\obj\Debug\netstandard2.0\Tut09_HierarchyAndInput.AssemblyInfo.cs
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\obj\Debug\netstandard2.0\Tut09_HierarchyAndInput.dll
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut09_HierarchyAndInput\obj\Debug\netstandard2.0\Tut09_HierarchyAndInput.pdb
