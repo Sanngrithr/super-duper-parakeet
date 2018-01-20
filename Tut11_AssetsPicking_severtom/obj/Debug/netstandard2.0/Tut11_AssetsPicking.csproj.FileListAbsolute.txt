@@ -1,0 +1,10 @@
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Assets\excavator.fus
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Tut11_AssetsPicking.deps.json
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Tut11_AssetsPicking.dll
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Tut11_AssetsPicking.pdb
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.csproj.CoreCompileInputs.cache
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.AssemblyInfoInputs.cache
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.AssemblyInfo.cs
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.dll
+e:\Desktop\HFU\CGSeason2\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.pdb
