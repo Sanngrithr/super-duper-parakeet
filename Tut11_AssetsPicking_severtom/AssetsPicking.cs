@@ -48,10 +48,10 @@ namespace Fusee.Tutorial.Core
             _upperArmTransform = _scene.Children.FindNodes(node => node.Name == "upperArm")?.FirstOrDefault()?.GetTransform();
             _shovelTransform = _scene.Children.FindNodes(node => node.Name == "Shovel")?.FirstOrDefault()?.GetTransform();
 
-            var scalehelper = new float3(0.5f,2,0.5f);
+            /*var scalehelper = new float3(0.5f,2,0.5f);
             _lowerArmTransform.Scale = scalehelper;
             _middleArmTransform.Scale = scalehelper;
-            _upperArmTransform.Scale = scalehelper;
+            _upperArmTransform.Scale = scalehelper;*/
 
             // Create a scene renderer holding the scene above
             _sceneRenderer = new SceneRenderer(_scene);

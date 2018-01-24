@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Desktop\\HFU\\CGSeason2\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut11_AssetsPicking\\Tut11_AssetsPicking.csproj",
+      "projectUniqueName": "e:\\Desktop\\HFU\\CGSeason2\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut11_AssetsPicking_severtom\\Tut11_AssetsPicking.csproj",
       "projectName": "Tut11_AssetsPicking",
-      "projectPath": "e:\\Desktop\\HFU\\CGSeason2\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut11_AssetsPicking\\Tut11_AssetsPicking.csproj",
+      "projectPath": "e:\\Desktop\\HFU\\CGSeason2\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut11_AssetsPicking_severtom\\Tut11_AssetsPicking.csproj",
       "packagesPath": "C:\\Users\\St Dr4gonflame\\.nuget\\packages\\",
-      "outputPath": "e:\\Desktop\\HFU\\CGSeason2\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut11_AssetsPicking\\obj\\",
+      "outputPath": "e:\\Desktop\\HFU\\CGSeason2\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut11_AssetsPicking_severtom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
